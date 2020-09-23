@@ -28,13 +28,24 @@
 
   <main>
 
-    <h1>Normativdad</h1>
-    <hr>
-    <br>
+    <section id="home">
+      <div class="container">
+        <br />
+        <h1>Normatividad</h1>
+        <hr />
+      </div>
+    </section>
 
     <?php include ('./dotk/05main/externa.html'); ?>
 
     <?php include ('./dotk/05main/interna.html'); ?>
+
+    <section id="old">
+      <div class="container">
+        <a href="http://www.upp.edu.mx/normatividad.old/"><p>Para consultar la versión anterior de este sitio, acceda en esta liga.</p></a>
+      </div>
+    </section>
+
 
     <div class="container marketing">
       <a id="mapadesitio"></a>
