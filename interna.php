@@ -1,4 +1,5 @@
-<?php $titulo = "Normatividad | UPP" ?>
+<?php $titulo = "Normatividad Interna" ?>
+<?php $banner = "interna" ?>
 
 <!DOCTYPE html>
 <html lang="es">
@@ -28,16 +29,7 @@
 
   <main>
 
-    <?php include ('./dotk/05main/contenido.html'); ?>
-    <?php //include ('./dotk/05main/externa.html'); ?>
-    <?php //include ('./dotk/05main/interna.html'); ?>
-
-    <section id="old">
-      <div class="container">
-        <a href="http://www.upp.edu.mx/normatividad.old/"><p>Para consultar la versión anterior de este sitio, acceda en esta liga.</p></a>
-      </div>
-    </section>
-
+    <?php include ('./dotk/05main/norm-interna.html'); ?>
 
     <div class="container marketing">
       <a id="mapadesitio"></a>
