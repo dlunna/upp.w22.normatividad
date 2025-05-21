@@ -20,10 +20,10 @@
 
     <br>
     <div class="row mb-3 text-center">
-      <div class="col-md-8 themed-grid-col">
+      <div class="col-md-6 themed-grid-col">
         <a class="btn btn-primary d-inline-flex align-items-center" href="./interna.php">Ver Normatividad Interna</a>
       </div>
-      <div class="col-md-4 themed-grid-col">
+      <div class="col-md-6 themed-grid-col">
         <a class="btn btn-primary d-inline-flex align-items-center" href="./externa.php">Ver Normatividad Externa</a>
       </div>
     </div>
